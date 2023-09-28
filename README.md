@@ -15,17 +15,17 @@ Here are some adorable cats you'd love to meet:
 1. **Whiskers**
    - Breed: Siamese
    - Age: 3 years
-   - ![Whiskers]([https://example.com/whiskers.jpg](https://www.dailypaws.com/thmb/tPXFfGDaeXPytWTKsYQgU1E3LeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/siamese-cat-couch_525025708-2000-e914b62ff65f4df39a7f55b87bf49213.jpg))
+   - ![Whiskers](https://www.dailypaws.com/thmb/tPXFfGDaeXPytWTKsYQgU1E3LeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/siamese-cat-couch_525025708-2000-e914b62ff65f4df39a7f55b87bf49213.jpg)
 
 2. **Fluffy**
    - Breed: Persian
    - Age: 5 years
-   - ![Fluffy]([https://example.com/fluffy.jpg](https://media.istockphoto.com/id/140469307/photo/fluffy-white-cat-lying-down-looking-into-camera.jpg?s=612x612&w=0&k=20&c=RsNsdCi24Ro5f60Xwr70wLEK6cx_hj-WfhDyN1R4Pok=))
+   - ![Fluffy](https://media.istockphoto.com/id/140469307/photo/fluffy-white-cat-lying-down-looking-into-camera.jpg?s=612x612&w=0&k=20&c=RsNsdCi24Ro5f60Xwr70wLEK6cx_hj-WfhDyN1R4Pok=)
 
 3. **Paws**
    - Breed: Maine Coon
    - Age: 4 years
-   - ![Paws]([https://example.com/paws.jpg](https://static.boredpanda.com/blog/wp-content/uploads/2019/01/maine-coon-kittens-111-5c35a6fa4a78e__700.jpg))
+   - ![Paws](https://static.boredpanda.com/blog/wp-content/uploads/2019/01/maine-coon-kittens-111-5c35a6fa4a78e__700.jpg)
 
 ### Cat Fun Facts
 
